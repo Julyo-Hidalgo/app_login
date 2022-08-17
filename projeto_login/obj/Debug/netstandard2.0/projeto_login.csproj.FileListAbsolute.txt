@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\bin\Debug\netstandard2.0\projeto_login.deps.json
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\bin\Debug\netstandard2.0\projeto_login.dll
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\bin\Debug\netstandard2.0\projeto_login.pdb
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.dll
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\refint\projeto_login.dll
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\projeto_login.pdb
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\ref\projeto_login.dll
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\View\login.xaml.g.cs
+C:\Users\Usuario\source\repos\projeto_login\projeto_login\obj\Debug\netstandard2.0\View\protegida.xaml.g.cs
